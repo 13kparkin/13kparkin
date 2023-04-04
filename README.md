@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=221DF7&width=435&lines=Hey+I+am+Kyle%2C+A+Software+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=221DF7&width=435&lines=Hey+I+am+Kyle%2C+A+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-I have always loved tech and the world of programming and solving problems with code. My background was in modding video games and really any softare I could get my hands on the code behind the scenes. Once I figured out I could do programming for a living I started down that path and have been on it ever since. 
+I have always loved tech and the world of programming as well as solving problems with code. My background was in modding video games and really any softare I could get my hands on the code behind the scenes. Once I figured out I could do programming for a living I started down that path and have been on it ever since. 
 
 I'm always exploring new technologies and challenging myself to learn new tools. With a background in both psychology and software development, I bring a unique perspective to any team.
 
