@@ -1,5 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Jason!+A+former+researcher+turned+Software+Dev!)](https://git.io/typing-svg)
-Once upon a time, I worked in clinical psychology research, but the magic of code caught my eye. Soon, I found myself learning JavaScript and embarking on a new adventure in software engineering. Now, I spend my days crafting web applications and using code to change the digital landscape! 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=221DF7&width=435&lines=Hey+I+am+Kyle%2C+A+Software+Engineer)](https://git.io/typing-svg)
+
+I have always loved tech and the world of programming and solving problems with code. My background was in modding video games and really any softare I could get my hands on the code behind the scenes. Once I figured out I could do programming for a living I started down that path and have been on it ever since. 
 
 I'm always exploring new technologies and challenging myself to learn new tools. With a background in both psychology and software development, I bring a unique perspective to any team.
 
@@ -25,14 +26,14 @@ Here are some of the technologies I have been working with:
 - AWS Cloud Services ☁️
 ## 🎉 Interests
 When I'm not coding I enjoy
-- Hiking 🥾
+- Swimming 
 - Video Games 🎮
 - Movies 🎥
 - Good Food 🍛
-- Sports ⚽ \
 ## 💬 Get in touch
-- LinkedIn: https://www.linkedin.com/in/jason-g-greenberg/
-- Wellfound / AngelList: https://wellfound.com/jason-greenberg-4
+- LinkedIn: https://www.linkedin.com/in/kyle-parkin-25a5b913a/
+- Wellfound / AngelList: https://wellfound.com/profile/edit/overview
+- Portfolio: https://portfolio-olive-eight-50.vercel.app/
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
 ## 📈 Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jason-greenberg&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=13kparkin&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
