@@ -37,4 +37,4 @@ When I'm not coding I enjoy
 #
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
 ## 📈 Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=13kparkin&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=13kparkin&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
