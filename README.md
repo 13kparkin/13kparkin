@@ -37,7 +37,7 @@ When I'm not coding I enjoy
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/kyle-parkin-25a5b913a/
 - Wellfound / AngelList: https://wellfound.com/u/kyle-parkin-1
-- Portfolio: https://portfolio-olive-eight-50.vercel.app/
+- Portfolio: https://www.kyleparkin.dev/
 - Email: 13ktparkin@gmail.com
 #
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
