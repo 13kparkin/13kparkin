@@ -3,7 +3,9 @@
 I am a Full Stack Software Engineer proficient in using JavaScript, CSS, React, Express, PostgreSQL, and Node.js to develop user-centric web applications. Excited to bring a passion for problem-solving and a proven record of strong collaboration to immediately add value to an agile-focused team.
 
 Front-end: HTML, CSS, JavaScript, React, Tailwind
-Back-end: Node.js, Express, PostgreSQL, MongoDB
+
+Back-end: Node.js, Express, Flask, SQLAlchemy, PostgreSQL, MongoDB
+
 Concepts & Tools: Git, Render, Unit Testing, RESTful APIs, Docker, Agile Development, Railway
 
 I'm always exploring new technologies and challenging myself to learn new tools. With a background in both behavioral programming and software development, I bring a unique perspective to any team.
