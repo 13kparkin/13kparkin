@@ -41,6 +41,7 @@ When I'm not coding I enjoy
 - Wellfound / AngelList: https://wellfound.com/u/kyle-parkin-1
 - Portfolio: https://www.kyleparkin.dev/
 - Email: 13ktparkin@gmail.com
+- Twitter: https://twitter.com/CodeByKyle
 #
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
 <!-- ## 📈 Stats: -->
