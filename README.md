@@ -29,6 +29,9 @@ Here are some of the technologies I have been working with:
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13kparkin&show_icons=true&theme=dark)
+
 ## 🌱 What I'm currently learning and getting better at:
 - Data Structures and Algorithms 🤖
 - AWS Cloud Services ☁️
