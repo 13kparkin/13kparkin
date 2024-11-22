@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=221DF7&width=550&lines=Hey+I'm+Kyle%2C+A+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=099aad&width=550&lines=Hey+I'm+Kyle%2C+A+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 As a Software Engineer I am proficient in using JavaScript, CSS, React, Express, PostgreSQL, and Node.js to develop user-centric web applications. Excited to bring a passion for problem-solving and a proven record of strong collaboration to immediately add value to an agile-focused team.
 
