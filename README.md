@@ -33,8 +33,8 @@ Here are some of the technologies I have been working with:
 
 
 ## 🌱 What I'm currently learning and getting better at:
-- Data Structures and Algorithms 🤖
-- AWS Cloud Services ☁️
+- Ai and Machine Learning 🤖
+- C# programming launguage 
 ## 🎉 Interests
 When I'm not coding I enjoy
 - Swimming :swimming_man:
