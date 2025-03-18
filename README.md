@@ -45,7 +45,6 @@ When I'm not coding I enjoy
 - Good Food 🍛
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/kyle-parkin-25a5b913a/
-- Wellfound / AngelList: https://wellfound.com/u/kyle-parkin-1
 - Portfolio: https://www.kyleparkin.dev/
 - Email: 13ktparkin@gmail.com
 - Twitter: https://twitter.com/CodeByKyle
